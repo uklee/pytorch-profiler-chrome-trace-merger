@@ -6,7 +6,7 @@ This helps you to simply view multiple trace files in a single tab and intrinsic
 It exploits the pid information space of the trace files, which does not contain useful information by default.
 
 ## Usage
-Change INPUT_FILES and OUTPUT_FILE appropriately.
+Change `INPUT_FILES` and `OUTPUT_FILE` appropriately.
 
 ## Note
-Will be changed to get INPUT_FILES and OUTPUT_FILE from parameter at a future version.
+Will be changed to get `INPUT_FILES` and `OUTPUT_FILE` from parameter at a future version.
